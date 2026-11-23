@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://imytle.github.io/sitemap.xml
